@@ -1,0 +1,17 @@
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\DesignMode.Model.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\DesignMode.Model.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\bin\Debug\net5.0\Design.Common.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.csproj.CopyComplete
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Decorator\obj\Debug\net5.0\Decorator.pdb

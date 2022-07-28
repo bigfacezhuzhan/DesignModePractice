@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Factory\\DesignMode.Factory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Common\\Design.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Common\\Design.Common.csproj",
+        "projectName": "Design.Common",
+        "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Common\\Design.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator.QH-20170626QSXJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\Design.Practice.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\Design.Practice.Interface.csproj",
+        "projectName": "Design.Practice.Interface",
+        "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\Design.Practice.Interface.csproj",
+        "packagesPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator.QH-20170626QSXJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj": {
+                "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Factory\\DesignMode.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Factory\\DesignMode.Factory.csproj",
+        "projectName": "DesignMode.Factory",
+        "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Factory\\DesignMode.Factory.csproj",
+        "packagesPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator.QH-20170626QSXJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\Design.Practice.Interface.csproj": {
+                "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\Design.Practice.Interface.csproj"
+              },
+              "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj": {
+                "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj",
+        "projectName": "DesignMode.Model",
+        "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\DesignMode.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\DesignMode.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator.QH-20170626QSXJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Common\\Design.Common.csproj": {
+                "projectPath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Common\\Design.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

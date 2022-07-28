@@ -1,0 +1,26 @@
+[
+  {
+    "SoupId": "4",
+    "SoupName": "玉米排骨汤",
+    "Description": "是一道食补汤品，主要食材是玉米和排骨，主要烹饪工艺是炖。",
+    "color": "Yellow"
+  },
+  {
+    "SoupId": "3",
+    "SoupName": "西红柿蛋汤",
+    "Description": "是一道家常汤，制作原料主要有西红柿、鸡蛋等。简单易学。",
+    "color": "Yellow"
+  },
+  {
+    "SoupId": "2",
+    "SoupName": "羊杂汤",
+    "Description": "主料是羊头肉，配料是羊肺、羊肥肠、羊心等。",
+    "color": "Yellow"
+  },
+  {
+    "SoupId": "1",
+    "SoupName": "三鲜汤",
+    "Description": "是江南地区传统名菜，属于江浙菜系。",
+    "color": "Yellow"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\bin\Debug\net5.0\DesignMode.Model.deps.json
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\bin\Debug\net5.0\DesignMode.Model.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\bin\Debug\net5.0\ref\DesignMode.Model.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\bin\Debug\net5.0\DesignMode.Model.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.AssemblyInfo.cs
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\ref\DesignMode.Model.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\bin\Debug\net5.0\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\bin\Debug\net5.0\Design.Common.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.csproj.AssemblyReference.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\DesignMode.Model\obj\Debug\net5.0\DesignMode.Model.csproj.CopyComplete

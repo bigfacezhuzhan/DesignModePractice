@@ -1,0 +1,52 @@
+[
+  {
+    "FoodId": "1",
+    "FoodName": "啤酒鸭",
+    "Description": "用啤酒烹调出的鸭肉软滑细嫩，鲜香味美，土豆非常入味，汤汁还可以用来捞饭",
+    "Doing": "啤酒鸭有多种做法，在烹调时加入了干辣椒和花椒，给鸭肉增添了麻辣之味",
+    "color": "Red",
+    "Price":"59",
+    "Score":"5.0",
+    "simpleStr":"DesignMode.Model.Menu.BeerDuck"
+  },
+  {
+    "FoodId": "2",
+    "FoodName": "红烧肉",
+    "Description": "一道著名的大众菜肴，各大菜系都有自己特色的红烧肉",
+    "Doing": "其以五花肉为制作主料，最好选用肥瘦相间的三层肉（五花肉）来做，锅具以砂锅为主",
+    "color": "Red" ,
+    "Price":"40",
+    "Score":"4.8",
+    "simpleStr":"DesignMode.Model.Menu.BraisedPork"
+  },
+  {
+    "FoodId": "3",
+    "FoodName": "东安子鸡",
+    "Description": "东安子鸡又叫东安鸡、官保鸡，是一道地方传统名菜，属于湘菜系",
+    "Doing": "将鸡宰杀后放入汤锅内煮，七成熟时捞出...",
+    "color": "Red",
+    "Price":"88",
+    "Score":"4.5",
+    "simpleStr":"DesignMode.Model.Menu.DongAnChicken"
+  },
+  {
+    "FoodId": "4",
+    "FoodName": "外婆菜",
+    "Description": "外婆菜是湖南湘西地区一道家常菜,原料选用多种野菜、湘西土菜",
+    "Doing": "口感极好,嚼之有劲,品之逾香,具有开胃下饭,降血脂、软化血管",
+    "color": "Red",
+    "Price":"26",
+    "Score":"4.9",
+    "simpleStr":"DesignMode.Model.Menu.GrandmaDish"
+  },
+  {
+    "FoodId": "5",
+    "FoodName": "口味蛇",
+    "Description": "外婆菜又名万菜,是湖南湘西地区一道家常菜,原料选用梅干菜、萝卜干、干豇豆、刀豆等",
+    "Doing": "加上朝天椒、杭椒、红干椒、植物油、食盐、大蒜等爆炒即可食用,炒好之后特别香辣,",
+    "color": "Red",
+    "Price":"60",
+    "Score":"4.0",
+    "simpleStr":"DesignMode.Model.Menu.TasteSnake"
+  }
+]

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractFactory\AbstractFactory.csproj" />
+    <ProjectReference Include="..\Decorator\Decorator.csproj" />
+    <ProjectReference Include="..\DesignMode.Factory\DesignMode.Factory.csproj" />
+    <ProjectReference Include="..\DesignMode.Model\DesignMode.Model.csproj" />
+  </ItemGroup>
+
+</Project>

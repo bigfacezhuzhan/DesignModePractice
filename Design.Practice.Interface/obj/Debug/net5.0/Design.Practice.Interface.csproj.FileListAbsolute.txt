@@ -1,0 +1,17 @@
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\Design.Practice.Interface.deps.json
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\Design.Practice.Interface.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\ref\Design.Practice.Interface.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\Design.Practice.Interface.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\DesignMode.Model.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\DesignMode.Model.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.csproj.AssemblyReference.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.AssemblyInfoInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.AssemblyInfo.cs
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.csproj.CopyComplete
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\ref\Design.Practice.Interface.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\obj\Debug\net5.0\Design.Practice.Interface.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Practice.Interface\bin\Debug\net5.0\Design.Common.pdb

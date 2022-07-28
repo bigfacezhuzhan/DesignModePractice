@@ -1,0 +1,11 @@
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\bin\Debug\net5.0\Design.Common.deps.json
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\bin\Debug\net5.0\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\bin\Debug\net5.0\ref\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\bin\Debug\net5.0\Design.Common.pdb
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\Design.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\Design.Common.AssemblyInfoInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\Design.Common.AssemblyInfo.cs
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\Design.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\ref\Design.Common.dll
+C:\Users\Administrator.QH-20170626QSXJ\Desktop\DesignModePractice\Design.Common\obj\Debug\net5.0\Design.Common.pdb

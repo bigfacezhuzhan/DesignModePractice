@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FoodModelList>
+	<FoodList>
+	<BaseFood>
+		<FoodId>1</FoodId>
+		<FoodName>啤酒鸭</FoodName>
+		<Description>用啤酒烹调出的鸭肉软滑细嫩，鲜香味美，土豆非常入味，汤汁还可以用来捞饭</Description>
+		<Doing>啤酒鸭有多种做法，在烹调时加入了干辣椒和花椒，给鸭肉增添了麻辣之味</Doing>
+		<color>Red</color>
+	</BaseFood>
+	<BaseFood>
+		<FoodId>1</FoodId>
+		<FoodName>啤酒鸭</FoodName>
+		<Description>用啤酒烹调出的鸭肉软滑细嫩，鲜香味美，土豆非常入味，汤汁还可以用来捞饭</Description>
+		<Doing>啤酒鸭有多种做法，在烹调时加入了干辣椒和花椒，给鸭肉增添了麻辣之味</Doing>
+		<color>Red</color>
+	</BaseFood>
+	<BaseFood>
+		<FoodId>1</FoodId>
+		<FoodName>啤酒鸭</FoodName>
+		<Description>用啤酒烹调出的鸭肉软滑细嫩，鲜香味美，土豆非常入味，汤汁还可以用来捞饭</Description>
+		<Doing>啤酒鸭有多种做法，在烹调时加入了干辣椒和花椒，给鸭肉增添了麻辣之味</Doing>
+		<color>Red</color>
+	</BaseFood>
+	<BaseFood>
+		<FoodId>1</FoodId>
+		<FoodName>啤酒鸭</FoodName>
+		<Description>用啤酒烹调出的鸭肉软滑细嫩，鲜香味美，土豆非常入味，汤汁还可以用来捞饭</Description>
+		<Doing>啤酒鸭有多种做法，在烹调时加入了干辣椒和花椒，给鸭肉增添了麻辣之味</Doing>
+		<color>Red</color>
+	</BaseFood>
+	<BaseFood>
+		<FoodId>1</FoodId>
+		<FoodName>啤酒鸭</FoodName>
+		<Description>用啤酒烹调出的鸭肉软滑细嫩，鲜香味美，土豆非常入味，汤汁还可以用来捞饭</Description>
+		<Doing>啤酒鸭有多种做法，在烹调时加入了干辣椒和花椒，给鸭肉增添了麻辣之味</Doing>
+		<color>Red</color>
+	</BaseFood>
+	</FoodList>
+</FoodModelList>

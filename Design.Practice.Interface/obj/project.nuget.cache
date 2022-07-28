@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcQTjdMS8z76rviq/RUB7n28xQJS2SGw7tJnO/uJMxQykwfhImcEmh3b61Qf8kGtdyKdpDmh5//yEkX4x2UB/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator.QH-20170626QSXJ\\Desktop\\DesignModePractice\\Design.Practice.Interface\\Design.Practice.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.QH-20170626QSXJ\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
